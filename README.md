@@ -1,2 +1,2 @@
 # Everyday-coding-practise
-Revising my dsa from 0
+Revising my dsa from 0-mastery
